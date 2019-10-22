@@ -1,4 +1,3 @@
-#
-<div dir="rtl">
+# <div dir="rtl">
 مقدمات r
 </div>
