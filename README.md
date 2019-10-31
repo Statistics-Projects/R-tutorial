@@ -36,7 +36,7 @@ R یک برنامه ی مناسب برای رسم نمودار های آماری
 
  مقاله های مرتبط
  ---
-   [نسب R و R-studio](http://github.com)
+   [نسب R و R-studio](https://github.com/Statistics-Projects/R-tutorial/blob/master/%D9%86%D8%B3%D8%A8%20R%20%D9%88%20R-studio.md)
 </div>
 
 
