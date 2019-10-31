@@ -7,6 +7,7 @@
 ---
 
   1. آخرین نسخه ی R را از سایت [CRAN](https://cran.r-project.org/bin/windows/base/) دانلود کنید.
+
 ![DL R for Windows](http://www.sthda.com/sthda/RDoc/images/windows-download-r.png)
 
   2. روی فایل دانلود شده دوبار کلیک کنید.
@@ -18,6 +19,7 @@
 Rtools دارای ابزار هایی برای ساختن پکیج و بر روی windows می باشد.
   
   1. آخرین نسخه ی Rtools یا نسخه ی مطابق با نسخه ی فعلی R خود را دانلود کنید: https://cran.r-project.org/bin/windows/Rtools/
+  
   ![DL Rtools for Windows](http://www.sthda.com/sthda/RDoc/images/windows-rtools.png)
   2. روی فایل دانلود شده دوبار کلیک کنید(نیازی به تغییر هیچ گزینه ای نمی باشد)
   
