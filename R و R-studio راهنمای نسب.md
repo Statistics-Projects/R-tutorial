@@ -28,5 +28,21 @@ R-studio را از این [لینک](https://www.rstudio.com/products/rstudio/do
 
 ![DL R-studio for Windows](http://www.sthda.com/sthda/RDoc/images/windows-rstudio.png)
 
+راهنمای نسب R و R-studio برای MAC OSX
+---
 
+  1. نسخه ی آخر R از این [لینک](https://cran.r-project.org/bin/macosx/) دانلود کنید.
+  2. روی فایل دانلود شده دوبار کلیک کنید تا R را نسب کنید. 
+  3. گزینه های ok -> Next -> Next -> Next (نیازی به تغییر هیچ گزینه ای نمی باشد)
+  4. R-studio را از این [لینک](https://www.rstudio.com/products/rstudio/download/) دانلود کنید.
+
+راهنمای نسب R و R-studio بر روی Linux
+---
+
+    1. R را می توان به وسیله ی Ubuntu نسب کرد با نوشتن اسکریپت زیر.
+    ```
+    sudo apt-get install r-base 
+
+```
+    2. R-studio را از این [لینک](https://www.rstudio.com/products/rstudio/download/) دانلود کنید.
 <div>
