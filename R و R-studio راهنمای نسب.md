@@ -25,6 +25,7 @@ Rtools دارای ابزار هایی برای ساختن پکیج و بر رو�
 ---
 
 R-studio را از این [لینک](https://www.rstudio.com/products/rstudio/download/) دانلود کنید.
+
 ![DL R-studio for Windows](http://www.sthda.com/sthda/RDoc/images/windows-rstudio.png)
 
 
