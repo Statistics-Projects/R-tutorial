@@ -38,11 +38,10 @@ R-studio را از این [لینک](https://www.rstudio.com/products/rstudio/do
 
 راهنمای نسب R و R-studio بر روی Linux
 ---
-
-    1. R را می توان به وسیله ی Ubuntu نسب کرد با نوشتن اسکریپت زیر.
-    ```
+  1. R را می توان به وسیله ی Ubuntu نسب کرد با نوشتن اسکریپت زیر.
+ ```
     sudo apt-get install r-base 
 
 ```
-    2. R-studio را از این [لینک](https://www.rstudio.com/products/rstudio/download/) دانلود کنید.
+  2. R-studio را از این [لینک](https://www.rstudio.com/products/rstudio/download/) دانلود کنید.
 <div>
